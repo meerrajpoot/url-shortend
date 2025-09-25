@@ -46,7 +46,7 @@ const UrlForm = () => {
   return (
     <div className="p-4 sm:p-6 max-w-5xl mx-auto">
       {/* Heading */}
-      <h1 className="text-2xl sm:text-3xl font-bold mb-6 text-center text-gray-800">
+      <h1 className="text-3xl sm:text-3xl font-bold mb-6 text-center text-gray-800">
         🔗 URL Shortener
       </h1>
 
